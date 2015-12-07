@@ -2,7 +2,7 @@
     "name": "node-red-contrib-smartnode-hook",
     "version":      "1.0.0",
     "keywords":     ["node-red",
-                     "smartnode"
+                     "smartnode",
                      "intel",
                      "Edison"
                     ],
