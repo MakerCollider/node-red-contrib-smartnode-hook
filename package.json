@@ -1,9 +1,28 @@
 {
-  "name": "node-red-contrib-smartnode-hook",
-  "dependencies": {
-    "multer": "*",
-    "serve-index": "*",
-    "cheerio": "*",
-    "socket.io": "*"
-  }
+    "name": "node-red-contrib-smartnode-hook",
+    "version":      "0.0.3",
+    "keywords":     ["node-red",
+                     "intel",
+                     "Edison"
+                    ],
+    "dependencies": {
+        "multer": "*",
+        "serve-index": "*",
+        "cheerio": "*",
+        "socket.io": "*"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MakerCollider/node-red-contrib-smartnode-hook.git"
+    },
+    "author": {
+        "name": "Maker Collider SmartNode team",
+        "email": "ediet2005@gmail.com",
+        "url": "http://www.makercollider.com"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/MakerCollider/node-red-contrib-smartnode-hook/issues"
+    },
+    "homepage": "https://github.com/MakerCollider/node-red-contrib-smartnode-hook"
 }
