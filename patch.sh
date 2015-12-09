@@ -1,6 +1,6 @@
 echo "patching... $FILE"
 
-CMD="require('./node_modules/node-red-contrib-smartnode-hook').hook(app, server, express);"
+CMD="require('./node_modules/node-red-contrib-smartnode/node_modules/node-red-contrib-smartnode-hook').hook(app, server, express);"
 if grep atlas_hook $1 
 then
   echo "atlas_hook has already patched"
