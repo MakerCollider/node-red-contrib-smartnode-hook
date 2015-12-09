@@ -17,7 +17,7 @@
         "url": "https://github.com/MakerCollider/node-red-contrib-smartnode-hook.git"
     },
     "scripts": {
-        "postinstall": "./patch.sh ../../red.js"
+        "postinstall": "./patch.sh ../../../../red.js"
     },
     "author": {
         "name": "Maker Collider SmartNode team",
