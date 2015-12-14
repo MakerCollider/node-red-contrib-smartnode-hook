@@ -8,7 +8,7 @@ this project is dependenced by the node-red-contrib-smartnode for some IoT displ
    Please see the ref. [here](http://nodered.org/docs/getting-started/installation.html)
 
 2. install the node-red-contrib-smartnode package, this process will install the node-red-contrib-hook package automaticlly.    please check the install cmd [here](https://github.com/MakerCollider/node-red-contrib-smartnode)
-3. 
+
 3. if you want to install smartnode package independently， then enter the node-red dir, and run:
 
    ``npm install node-red-contrib-smartnode``
